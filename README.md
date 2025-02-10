@@ -1,1 +1,0 @@
-# SmartFridge-QR-Control-IoT-Sync-
